@@ -54,7 +54,7 @@ hilo_revisar_estado.start()
 
 # EJECUCIÓN
 Observaremos que en todo momento en la terminal observaremos el estado de nuestra aplicación
-<img src="">
+<img src="https://raw.githubusercontent.com/jhotwox/Estatus/refs/heads/main/2024-09-29_200703.png">
 
 Observaremos que si cerramos la aplicación, el estado cambia a False
-<img src="">
+<img src="https://raw.githubusercontent.com/jhotwox/Estatus/refs/heads/main/2024-09-29_200730.png">
